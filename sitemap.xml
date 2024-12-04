@@ -3,13 +3,13 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 ">
   <url>
     <loc>https://www.bhaktam.com</loc>
-    <lastmod>2024-11-26</lastmod>
+    <lastmod>2024-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.bhaktam.com/about.html</loc>
-    <lastmod>2024-11-26</lastmod>
+    <lastmod>2024-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -21,13 +21,25 @@
   </url>
   <url>
     <loc>https://www.bhaktam.com/privacy.html</loc>
-    <lastmod>2024-11-26</lastmod>
+    <lastmod>2024-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.bhaktam.com/terms.html</loc>
-    <lastmod>2024-11-26</lastmod>
+    <lastmod>2024-12-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bhaktam.com/refund.html</loc>
+    <lastmod>2024-12-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.bhaktam.com/return.html</loc>
+    <lastmod>2024-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
